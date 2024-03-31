@@ -6,6 +6,7 @@ export default function Home() {
     <div className=" p-12 flex  gap-5">
       <Link href={"/parallel-dashboard"}>go to parallel-dashboard</Link>
       <Link href={"/folder1"}>go to folder1</Link>
+      <Link href={"/gallery"}>go to gallery</Link>
     </div>
   );
 }
